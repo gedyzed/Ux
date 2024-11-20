@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ETHIOPIA\\source\\repos\\Ux\\Ux.csproj",
+      "projectUniqueName": "C:\\Users\\ETHIOPIA\\Source\\Repos\\UI\\Ux.csproj",
       "projectName": "Ux",
-      "projectPath": "C:\\Users\\ETHIOPIA\\source\\repos\\Ux\\Ux.csproj",
+      "projectPath": "C:\\Users\\ETHIOPIA\\Source\\Repos\\UI\\Ux.csproj",
       "packagesPath": "C:\\Users\\ETHIOPIA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ETHIOPIA\\source\\repos\\Ux\\obj\\",
+      "outputPath": "C:\\Users\\ETHIOPIA\\Source\\Repos\\UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ETHIOPIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
