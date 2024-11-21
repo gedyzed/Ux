@@ -1,6 +1,6 @@
 ﻿namespace Ux
 {
-    partial class Form1
+    partial class TeacherFrom
     {
         /// <summary>
         ///  Required designer variable.

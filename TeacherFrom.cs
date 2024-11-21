@@ -1,8 +1,8 @@
 namespace Ux
 {
-    public partial class Form1 : Form
+    public partial class TeacherFrom : Form
     {
-        public Form1()
+        public TeacherFrom()
         {
             InitializeComponent();
             this.Text = "Teacher Page";

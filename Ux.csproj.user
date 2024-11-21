@@ -7,7 +7,7 @@
     <Compile Update="EditExamForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Form1.cs">
+    <Compile Update="TeacherFrom.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="InsertAnswerForm.cs">
